@@ -30,7 +30,7 @@
 
 - :dart: Software Developer | Machine learning | Deep learning | Computer Vision |NLP
 - :heart: Love to code
-- :e-mail: Ask me about anything ; **[Email](harshm17172612@gmail.com)**
+- :e-mail: Ask me about anything ; [**Email**](mailto:harshm17172612@gmail.com)
 <br/><br/><br/>
 
 ### Languages and Tools :computer:
