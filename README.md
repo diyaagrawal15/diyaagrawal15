@@ -50,9 +50,12 @@
 <br/><br/>
 
 </br>
-<a href="https://github.com/MiHarsh">
-<img style="height=10rem; width=6rem" align="center" alt="sabesan's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=MiHarsh&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
-<p>       </p>
+
+![github activity graph](https://activity-graph.herokuapp.com/graph?username=MiHarsh&theme=xcode)
+
+## &#x1f4c8; GitHub Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MiHarsh)](https://github.com/MiHarsh/)
 
 <a href="https://github.com/MiHarsh">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MiHarsh&layout=compact&theme=radical" />
