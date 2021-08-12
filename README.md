@@ -9,6 +9,9 @@
 <a href="https://github.com/MiHarsh">
   <img align="left" alt="Harsh's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
+<a href="https://gitlab.com/MiHarsh">
+  <img align="left" alt="Harsh's Gitlab" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />
+</a>
 <a href="https://www.instagram.com/_miharsh/">
   <img align="left" alt="Harsh's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
@@ -31,6 +34,7 @@
 - :dart: Software Developer | Machine learning | Deep learning | Computer Vision | NLP | Web Developer
 - :hatching_chick: [Google Summer of Code](https://summerofcode.withgoogle.com/) (GSoC) 2021 - [AOSSIE](https://aossie.gitlab.io/)
 - :hatching_chick: Incoming SDE Intern (2022) at [Microsoft](https://www.microsoft.com/en-in)
+- :hatching_chick: Kaggle Competitions Expert
 - :heart: Love to code
 - :e-mail: Ask me about anything, [emails](mailto:harshm17172612@gmail.com) are :heart:
 <br/><br/><br/>
