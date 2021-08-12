@@ -22,16 +22,19 @@
 
 <img align="right" src="https://github.com/MiHarsh/MiHarsh/blob/main/assets/Developer.gif"/>
 
-:smiley: **Sophomore and a Developer** 
+:smiley: **A Junior and a Developer** 
 
 👨‍🎓 Pursuing B.Tech in Electronics and Communication Engineering from [**IIT (ISM) Dhanbad**](https://iitism.ac.in/) 
 
 ### About me :eyes:
 
-- :dart: Software Developer | Machine learning | Deep learning | Computer Vision |NLP
+- :dart: Software Developer | Machine learning | Deep learning | Computer Vision | NLP | Web Developer
+- :hatching_chick: [Google Summer of Code](https://summerofcode.withgoogle.com/) (GSoC) 2021 - [AOSSIE](https://aossie.gitlab.io/)
+- :hatching_chick: Incoming SDE Intern (2022) at [Microsoft](https://www.microsoft.com/en-in)
 - :heart: Love to code
-- :e-mail: Ask me about anything ; [**Email**](mailto:harshm17172612@gmail.com)
+- :e-mail: Ask me about anything, [emails](mailto:harshm17172612@gmail.com) are :heart:
 <br/><br/><br/>
+
 
 ### Languages and Tools :computer:
 <code><a><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
