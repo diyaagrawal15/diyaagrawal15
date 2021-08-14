@@ -1,4 +1,4 @@
-### Hey 👋, I'm [Harsh Mishra](https://github.com/MiHarsh) 👨‍💻
+### Hey 👋, I'm [Diya Agrawal](https://github.com/MiHarsh) 👨‍💻
 <br/>
 <a href="https://twitter.com/MiHarsh26">
   <img align="left" alt="Harsh's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
