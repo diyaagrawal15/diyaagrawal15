@@ -3,18 +3,6 @@
 <a href="www.linkedin.com/in/diya-agrawal">
   <img align="left" alt="Diya's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/MiHarsh">
-  <img align="left" alt="Harsh's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://gitlab.com/MiHarsh">
-  <img align="left" alt="Harsh's Gitlab" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />
-</a>
-<a href="https://www.instagram.com/_miharsh/">
-  <img align="left" alt="Harsh's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/miharsh26">
-  <img align="left" alt="Harsh's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
 
 
 <br/><br/><br/>
