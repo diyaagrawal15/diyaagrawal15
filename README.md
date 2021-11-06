@@ -10,9 +10,9 @@
 
 <img align="right" src="https://github.com/MiHarsh/MiHarsh/blob/main/assets/Developer.gif"/>
 
-:smiley: **A Junior and a Developer** 
+:smiley: **To be Developer** 
 
-👨‍🎓 Pursuing B.Tech in Electronics and Communication Engineering from [**IIT (ISM) Dhanbad**](https://iitism.ac.in/) 
+👨‍🎓 Pursuing B.Tech in Computer Science and Engineering from UCER GREATER NOIDA
 
 ### About me :eyes:
 
