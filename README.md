@@ -18,7 +18,7 @@
 
 - :dart: Web Developer
 - :heart: Love to code
-- :e-mail: Ask me about anything, [emails](mailto:harshm17172612@gmail.com) are :heart:
+- :e-mail: Ask me about anything, [emails](mailto:agrawaldiya32@gmail.com) are :heart:
 <br/><br/><br/>
 
 
