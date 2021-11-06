@@ -1,10 +1,7 @@
 ### Hey 👋, I'm [Diya Agrawal](https://github.com/MiHarsh) 👨‍💻
 <br/>
-<a href="https://twitter.com/MiHarsh26">
-  <img align="left" alt="Harsh's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/harsh-mishra-5384b11a0/">
-  <img align="left" alt="Harsh's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="www.linkedin.com/in/diya-agrawal">
+  <img align="left" alt="Diya's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/MiHarsh">
   <img align="left" alt="Harsh's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
