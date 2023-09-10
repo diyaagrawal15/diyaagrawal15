@@ -1,4 +1,4 @@
-### Hey 👋, I'm [Diya Agrawal](https://github.com/MiHarsh) 👨‍💻
+### Hey 👋, I'm [Diya Agrawal](https://github.com/diyaagrawal15) 👨‍💻
 <br/>
 <a href="www.linkedin.com/in/diya-agrawal">
   <img align="left" alt="Diya's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
